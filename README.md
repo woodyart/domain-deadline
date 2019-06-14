@@ -1,4 +1,4 @@
-# ssl-deadline
+# domain-deadline
 Count days before domain expiration date
 
 ## Usage
