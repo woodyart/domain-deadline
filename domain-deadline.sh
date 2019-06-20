@@ -44,7 +44,7 @@ function count_days () {
     ru|su|рф)
       i_grep="paid-till"
       ;;
-    com|digital)
+    com|digital|online)
       i_grep="Registry Expiry Date"
       ;;
     *)
